@@ -1,6 +1,6 @@
 __pycache__/
 poetry.lock
 .env
+pyproject.toml
 .vscode/
 db.sqlite3
-pyproject.toml
