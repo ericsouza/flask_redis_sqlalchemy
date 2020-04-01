@@ -1,4 +1,4 @@
-#Flask Redis SQLAlchemy - Error Demonstration
+# Flask Redis SQLAlchemy - Error Demonstration
 
 ## Installing dependencies with pip
 
