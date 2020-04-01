@@ -3,3 +3,4 @@ poetry.lock
 .env
 .vscode/
 db.sqlite3
+pyproject.toml
